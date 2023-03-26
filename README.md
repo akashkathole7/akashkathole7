@@ -1,9 +1,19 @@
+
 <h1 align="center">Hi 👋, I'm Akash Kathole</h1>
 <h3 align="center">As a data scientist with extensive technical expertise in various platforms and technologies, including Cloud, Analytics platform, Business Analytics, Machine Learning, Deep Learning, cloud computing, web deployment, MLOps, and DevOps, I aim to leverage my skill set to develop efficient and effective data solutions that drive business value.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
-
 - 🔭 I’m currently working on **Axona**
+
+- 👨‍💻 All of my projects are available at [https://akashkathole.ml/](https://akashkathole.ml/)
+
+- 📝 I regularly write articles on [https://medium.com/@akashkathole74](https://medium.com/@akashkathole74)
+
+- 💬 Ask me about **MLOps, ML, DL, IoT, AI, Robotics, etc.**
+
+- 📫 How to reach me **akashkathole74@gmail.com**
+
+- 📄 Know about my experiences [https://1drv.ms/b/s!Arel1aKRPmAXiSHTuciox5qagjnJ?e=5dKg49](https://1drv.ms/b/s!Arel1aKRPmAXiSHTuciox5qagjnJ?e=5dKg49)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -11,11 +21,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akash kathole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash kathole" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/akash kathole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akash kathole" height="30" width="40" /></a>
+<a href="https://twitter.com/akashkathole74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashkathole74" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-kathole-005125202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-kathole-005125202" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17599238/akash-kathole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17599238/akash-kathole" height="30" width="40" /></a>
 <a href="https://kaggle.com/akash kathole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akash kathole" height="30" width="40" /></a>
-<a href="https://medium.com/@akashkathole7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashkathole7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash" height="30" width="40" /></a>
+<a href="https://medium.com/@akashkathole74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashkathole74" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucead4moe2wxcjdo7_vam6cg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucead4moe2wxcjdo7_vam6cg" height="30" width="40" /></a>
+<a href="/https://medium.com/@akashkathole74/control-flow-9518a702c023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@akashkathole74/control-flow-9518a702c023" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
