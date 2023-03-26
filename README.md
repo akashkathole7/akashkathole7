@@ -36,5 +36,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkathole7&show_icons=true&locale=en&layout=compact" alt="akashkathole7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkathole7&" alt="akashkathole7" theme=tokyonight/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkathole7&" alt="akashkathole7" /></p>
 
