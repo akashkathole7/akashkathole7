@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **akashkathole74@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Arel1aKRfdgddfgdfgfgPmAXiSHTuciox5qagjnJ?e=5dKg49](https://1drv.ms/b/s!Arel1aKRPmAXiSHTucioxddfgdfgfgfgf5qagjnJ?e=5dKg49)
 
 
 ### Blogs posts
