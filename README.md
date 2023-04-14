@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Axona**
 
-- 👨‍💻 All of my projects are available at [https://akashkathole.ml/](https://akashkathole.ml/)
+- 👨‍💻 All of my projects are available at [https://akashkathole.AI/](https://akashkathole.ml/)
 
 - 📝 I regularly write articles on [https://medium.com/@akashkathole74](https://medium.com/@akashkathole74)
 
@@ -14,6 +14,7 @@
 
 - 📫 How to reach me **akashkathole74@gmail.com**
 
+- 📄 Know about my experiences [https://1drv.ms/b/s!Arel1aKRfdgdfgPmAXiSHTuciox5qagjnJ?e=5dKg49](https://1drv.ms/b/s!Arel1aKRPmAXiSHTucioxdfgfgf5qagjnJ?e=5dKg49)
 
 
 ### Blogs posts
