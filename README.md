@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Axona**
 
-- 👨‍💻 All of my projects are available at [https://akashkathole.AI/](https://akashkathole.AI/)
+- 👨‍💻 All of my projects are available at [https://akashkathole.AI/](https://akashkathole.AI /)
 
 - 📝 I regularly write articles on [https://medium.com/@akashkathole74](https://medium.com/@akashkathole74)
 
