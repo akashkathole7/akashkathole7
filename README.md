@@ -1,6 +1,6 @@
 ![logo](https://github.com/akashkathole7/akashkathole7/blob/main/Picsart_23-03-26_13-38-56-513.jpg)
 <h1 align="center">Hi 👋, I'm Akash Kathole</h1>
-<h3 align="center">As a data scientist with extensive technical expertise in various platforms and technologies, including Cloud, Analytics platform, Business Analytics, Machine Learning, Deep Learning, cloud computing, web deployment, MLOps, and DevOps, I aim to leverage my skill set to develop efficient and effective data solutions that drive business value.</h3>
+<h3 align="center">⚡  Machine Learning Engineer | Open Source Advocate | Python | TensorFlow | PyTorch ⚡</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
