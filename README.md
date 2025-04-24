@@ -48,7 +48,7 @@
     >
       <img
         src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*wpyMrwxA5KSqIlaCzTnJ5A.jpeg"
-        alt="The Editorial Engine: A Technologist’s Pilgrimage"
+        alt="A Hypnotic Revelation"
         width="150px"
         align="right"
       />
