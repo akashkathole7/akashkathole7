@@ -54,7 +54,7 @@
       />
     </a>
     <a
-      href="https://www.geekist.co/the-editorial-engine-a-technologists-pilgrimage"
+      href="https://medium.com/@akashkathole74/the-dark-side-of-large-language-models-a-hypnotic-revelation-9a3f50fc3b73"
       title="The Editorial Engine: A Technologist’s Pilgrimage"
     >
       <strong>The Editorial Engine: A Technologist’s Pilgrimage</strong>
