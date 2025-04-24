@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm J</h1>
+<h1 align="center">Hi 👋, I'm Akash</h1>
 <!-- GitHub Pages Deployment Notice -->
 <p align="center">
   <small>🖥️ <strong>To view this in your browser, visit</strong></small>
-  <a href="https://jasonnathan.github.io" target="_blank"><strong>jasonnathan.github.io</strong></a>
+  <a href="https://akashkathole7.github.io" target="_blank"><strong>jasonnathan.github.io</strong></a>
 </p>
 
 <!-- GitHub Contribution Graph -->
@@ -18,13 +18,13 @@
 <!-- Connect with Me -->
 <h2 align="center">Connect With Me🤝</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jasonnathan/" target="blank">
+  <a href="https://www.linkedin.com/in/akash-kathole/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/jason_nathan" target="blank">
+  <a href="https://x.com/akashkathole74" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a> 
-  <a href="https://stackoverflow.com/users/382536/jason-j-nathan" target="blank">
+  <a href="https://stackoverflow.com/users/382536/akash-kathole" target="blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://geekist.co" target="blank">
