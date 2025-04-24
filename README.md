@@ -27,7 +27,7 @@
   <a href="https://stackoverflow.com/users/382536/akash-kathole" target="blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://geekist.co" target="blank">
+  <a href="https://medium.com/@akashkathole74" target="blank">
     <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
   </a>
   <a href="https://meetme.geekist.co" target="blank">
