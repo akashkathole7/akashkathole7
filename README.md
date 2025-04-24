@@ -2,7 +2,7 @@
 <!-- GitHub Pages Deployment Notice -->
 <p align="center">
   <small>🖥️ <strong>To view this in your browser, visit</strong></small>
-  <a href="https://akashkathole7.github.io" target="_blank"><strong>jasonnathan.github.io</strong></a>
+  <a href="https://akashkathole7.github.io" target="_blank"><strong>akashkathole7.github.io</strong></a>
 </p>
 
 <!-- GitHub Contribution Graph -->
@@ -43,11 +43,11 @@
   <!-- ARTICLES:START -->
   <p align="left">
     <a
-      href="https://www.geekist.co/the-editorial-engine-a-technologists-pilgrimage"
-      title="The Editorial Engine: A Technologist’s Pilgrimage"
+      href="https://medium.com/@akashkathole74/the-dark-side-of-large-language-models-a-hypnotic-revelation-9a3f50fc3b73"
+      title="The Dark Side of Large Language Models: A Hypnotic Revelation"
     >
       <img
-        src="https://cdn.hashnode.com/res/hashnode/image/upload/v1744790024298/c11e1343-3283-464a-8f3c-e086541536e4.png"
+        src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*wpyMrwxA5KSqIlaCzTnJ5A.jpeg"
         alt="The Editorial Engine: A Technologist’s Pilgrimage"
         width="150px"
         align="right"
